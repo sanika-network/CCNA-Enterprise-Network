@@ -24,13 +24,13 @@ This project demonstrates the design and implementation of a multi-branch enterp
 ## 📸 Screenshots
 
 ![Topology](Topology.png)
-![VLAN](Vlan.png)
-![Inter-vLAN](Inter-vlan.png)
-![Routing](Eigrp.png)
-![EtherChannel](Etherchannel.png)
-![DHCP and ACL](DHCP&ACL.png)
-![NTP](NTP.png)
-![Syslog](Syslog.png)
+![VLAN](VlanConfiguration.png)
+![Inter-vLAN](Inter-vlanConfiguration.png)
+![Routing](EigrpConfiguration.png)
+![EtherChannel](EtherchanneConfigurationl.png)
+![DHCP and ACL](DHCP&ACLConfiguration.png)
+![NTP](NTPConfiguration.png)
+![Syslog](SyslogConfiguration.png)
 
 
 ## 👨‍💻 Author
