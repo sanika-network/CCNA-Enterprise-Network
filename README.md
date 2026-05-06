@@ -23,26 +23,46 @@ This project demonstrates the design and implementation of a multi-branch enterp
 
 ## 📸 Screenshots
 
+## Enterprise Network Topology
+
 ![Topology](Topology.png)
+
+## VLAN Configuration
 
 ![VLAN](Vlan.png)
 
+## Inter-VLAN Routing
+
 ![Inter-vLAN](InterVlan.png)
+
+## EIGRP Dynamic Routing
 
 ![Routing](Eigrp.png)
 
+## DHCP Configuration
+
 ![DHCP](DHCP.png)
+
+## EtherChannel Configuration
 
 ![EtherChannel](Etherchannel.png)
 
+## Access Control List (ACL)
+
 ![ACL](ACL.png)
+
+## NTP Configuration
 
 ![NTP](NTP.png)
 
+## Syslog Monitoring
+
 ![Syslog](Syslog.png)
+
+## Network Testing & Verification
 
 ![Ping](Ping.png)
 
 
-## 👨‍💻 Author
+## 👨‍💻Author
 Sanika Shewale
