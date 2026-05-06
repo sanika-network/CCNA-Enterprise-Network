@@ -60,6 +60,13 @@ This project demonstrates the design and implementation of a multi-branch enterp
 ![Syslog](Syslog.png)
 
 ## Network Testing & Verification
+- Successful communication between VLANs
+- EIGRP routing verified
+- DHCP IP allocation tested
+- ACL traffic filtering validated
+- EtherChannel operational
+- NTP synchronization successful
+- Syslog monitoring verified
 
 ![Ping](Ping.png)
 
